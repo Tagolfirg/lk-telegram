@@ -76,4 +76,3 @@ telegram.kurgan=-XXXXXXXXXXXXXXXXXX
 # Отправка уведомлений в несколько каналов
 \Larakit\TelegramBot::add('Заказ боулинга в Кургане');
 \Larakit\TelegramBot::send(['bowling', 'kurgan', 'notify']);
-
