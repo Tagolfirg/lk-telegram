@@ -1,0 +1,20 @@
+{
+    "name": "larakit/lk-telegrambot",
+    "description": "[Larakit] telegrambot отправка уведомлений",
+    "version": "1.0.0",
+    "keywords": [
+        "laravel",
+        "laravel 5",
+        "larakit"
+    ],
+    "license": "MIT",
+    "require": {
+        "laravel/framework": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Larakit\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
